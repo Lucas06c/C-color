@@ -1,2 +1,3 @@
-# Ccolor
-A module tahts prints colored outputs in C
+# C-color
+---
+### A module tahts prints colored outputs in C
