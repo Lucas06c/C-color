@@ -1,3 +1,3 @@
 # C-color
 ---
-### A module tahts prints colored outputs in C
+### A module thats prints colored outputs in C
